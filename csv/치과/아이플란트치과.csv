@@ -1,0 +1,3 @@
+bookingBusinessId,reviewId,reviewBody,score,isImp,replyBody,resourceUrlList,completedDate,id,bookingItemName,bookingBusinessName,optionNameList,body/0/isHighlight,body/0/text
+230738,7172535,당일 예약인데 신속하게 잘 되었어요.,5,1,,,2019.10.10,doth****,상담예약,아이플란트치과의원,,false,당일 예약인데 신속하게 잘 되었어요.
+230738,4768525,빠른예약 착한상담 착한가격 굿굿,5,1,,,2019.04.19,cook****,상담예약,아이플란트치과의원,,false,빠른예약 착한상담 착한가격 굿굿
